@@ -1,0 +1,952 @@
+08/20/2017 15:42:48 DEBUG devpinoyLogger:36 - OR Property file loaded
+08/20/2017 15:42:48 DEBUG devpinoyLogger:44 - CONFIG Property file loaded
+08/20/2017 15:42:48 DEBUG devpinoyLogger:51 - All the APIs loaded
+08/20/2017 15:42:48 DEBUG devpinoyLogger:56 - Loaded My Contact Form.xlsx
+08/20/2017 15:46:33 DEBUG devpinoyLogger:36 - OR Property file loaded
+08/20/2017 15:46:33 DEBUG devpinoyLogger:44 - CONFIG Property file loaded
+08/20/2017 15:46:33 DEBUG devpinoyLogger:51 - All the APIs loaded
+08/20/2017 15:46:33 DEBUG devpinoyLogger:56 - Loaded My Contact Form.xlsx
+08/20/2017 15:47:01 DEBUG devpinoyLogger:36 - OR Property file loaded
+08/20/2017 15:47:01 DEBUG devpinoyLogger:44 - CONFIG Property file loaded
+08/20/2017 15:47:01 DEBUG devpinoyLogger:51 - All the APIs loaded
+08/20/2017 15:47:02 DEBUG devpinoyLogger:56 - Loaded My Contact Form.xlsx
+08/20/2017 15:47:02 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/20/2017 15:47:02 DEBUG devpinoyLogger:24 - Opening the browser
+08/20/2017 15:47:02 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/20/2017 15:47:05 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/20/2017 15:47:05 DEBUG devpinoyLogger:61 - Load the URL
+08/20/2017 15:47:05 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/20/2017 15:47:10 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/20/2017 15:47:10 DEBUG devpinoyLogger:84 - Logging in
+08/20/2017 15:47:10 DEBUG devpinoyLogger:95 - username object = usertext
+08/20/2017 15:47:10 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/20/2017 15:47:10 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/20/2017 15:47:10 DEBUG devpinoyLogger:98 - username value = username
+08/20/2017 15:47:10 DEBUG devpinoyLogger:99 - password value = password
+08/20/2017 15:47:14 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = newformlink. Values = 
+08/20/2017 15:47:14 DEBUG devpinoyLogger:143 - Clicking the link
+08/20/2017 15:47:14 DEBUG devpinoyLogger:144 - object = New Form Wizard. value = No value for this method .
+08/20/2017 15:47:17 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = startwizardbutton. Values = 
+08/20/2017 15:47:17 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:17 DEBUG devpinoyLogger:164 - object = submit. value = No value for this method .
+08/20/2017 15:47:19 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = formnametext. Values = Dhivya
+08/20/2017 15:47:19 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:19 DEBUG devpinoyLogger:254 - object = formname. value = Dhivya.
+08/20/2017 15:47:19 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = formatdd. Values = HTML
+08/20/2017 15:47:19 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:19 DEBUG devpinoyLogger:184 - object = format. value = HTML.
+08/20/2017 15:47:19 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emptydd. Values = Yes
+08/20/2017 15:47:19 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:19 DEBUG devpinoyLogger:184 - object = empty. value = Yes.
+08/20/2017 15:47:19 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = printurldd. Values = Yes
+08/20/2017 15:47:19 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:19 DEBUG devpinoyLogger:184 - object = printurl. value = Yes.
+08/20/2017 15:47:20 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:20 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:20 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:21 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = etypetemprbutton. Values = 1
+08/20/2017 15:47:21 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/20/2017 15:47:21 DEBUG devpinoyLogger:205 - object = etypetemp. value = 1.
+08/20/2017 15:47:21 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:21 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:21 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:23 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = eadddd. Values = raman.dhivya@gmail.com
+08/20/2017 15:47:23 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:23 DEBUG devpinoyLogger:184 - object = eadd. value = raman.dhivya@gmail.com.
+08/20/2017 15:47:24 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:24 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:24 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:25 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = subjecttyperbutton. Values = 2
+08/20/2017 15:47:25 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/20/2017 15:47:25 DEBUG devpinoyLogger:205 - object = subjecttype. value = 2.
+08/20/2017 15:47:25 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:25 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:25 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:28 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = autoresrbutton. Values = 0
+08/20/2017 15:47:28 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/20/2017 15:47:28 DEBUG devpinoyLogger:205 - object = autores. value = 0.
+08/20/2017 15:47:28 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:28 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:28 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:31 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = questionsetupdd. Values = Start with a predefined question template.
+08/20/2017 15:47:31 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:31 DEBUG devpinoyLogger:184 - object = questionsetup. value = Start with a predefined question template..
+08/20/2017 15:47:31 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:31 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:31 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:32 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = checkbox. Values = 
+08/20/2017 15:47:32 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/20/2017 15:47:32 DEBUG devpinoyLogger:231 - object = cat[]. value = No value for this method.
+08/20/2017 15:47:32 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:32 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:32 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:34 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = tempidrbutton. Values = 13
+08/20/2017 15:47:34 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/20/2017 15:47:34 DEBUG devpinoyLogger:205 - object = tempid. value = 13.
+08/20/2017 15:47:34 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:34 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:34 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:34 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:34 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:34 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:36 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = subjectlayoutdd. Values = Vertical
+08/20/2017 15:47:36 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:36 DEBUG devpinoyLogger:184 - object = subjectlayout. value = Vertical.
+08/20/2017 15:47:36 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emailfromlayoutdd. Values = Vertical
+08/20/2017 15:47:36 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:36 DEBUG devpinoyLogger:184 - object = emailfromlayout. value = Vertical.
+08/20/2017 15:47:36 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:36 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:36 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:38 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = redirectpagetext. Values = http://www.google.com
+08/20/2017 15:47:38 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:38 DEBUG devpinoyLogger:254 - object = redirectpage. value = http://www.google.com.
+08/20/2017 15:47:38 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:38 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:38 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:40 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:40 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:40 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:45 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontdd. Values = Geneva
+08/20/2017 15:47:45 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:45 DEBUG devpinoyLogger:184 - object = font. value = Geneva.
+08/20/2017 15:47:45 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = fontcolortext. Values = #2e0ee8
+08/20/2017 15:47:45 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:45 DEBUG devpinoyLogger:254 - object = fontcolor. value = #2e0ee8.
+08/20/2017 15:47:46 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontsizedd. Values = 5
+08/20/2017 15:47:46 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:46 DEBUG devpinoyLogger:184 - object = fontsize. value = 5.
+08/20/2017 15:47:46 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = boldbutton. Values = 
+08/20/2017 15:47:46 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/20/2017 15:47:46 DEBUG devpinoyLogger:231 - object = bold. value = No value for this method.
+08/20/2017 15:47:46 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = italicbutton. Values = 
+08/20/2017 15:47:46 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/20/2017 15:47:46 DEBUG devpinoyLogger:231 - object = italic. value = No value for this method.
+08/20/2017 15:47:46 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:46 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:46 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:47 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bgcolortext. Values = #ede1e1
+08/20/2017 15:47:47 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:47 DEBUG devpinoyLogger:254 - object = bgcolor. value = #ede1e1.
+08/20/2017 15:47:47 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordersizetext. Values = 2
+08/20/2017 15:47:47 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:47 DEBUG devpinoyLogger:254 - object = bordersize. value = 2.
+08/20/2017 15:47:47 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordercolortext. Values = #635d5d
+08/20/2017 15:47:47 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:47 DEBUG devpinoyLogger:254 - object = bordercolor. value = #635d5d.
+08/20/2017 15:47:48 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = borderstyledd. Values = Ridge
+08/20/2017 15:47:48 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:48 DEBUG devpinoyLogger:184 - object = borderstyle. value = Ridge.
+08/20/2017 15:47:48 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linesizetext. Values = 2
+08/20/2017 15:47:48 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:48 DEBUG devpinoyLogger:254 - object = linesize. value = 2.
+08/20/2017 15:47:48 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linecolortext. Values = #bd5a5a
+08/20/2017 15:47:48 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:48 DEBUG devpinoyLogger:254 - object = linecolor. value = #bd5a5a.
+08/20/2017 15:47:48 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = linestyledd. Values = Groove
+08/20/2017 15:47:48 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:48 DEBUG devpinoyLogger:184 - object = linestyle. value = Groove.
+08/20/2017 15:47:48 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = abgcolordd. Values = Yes
+08/20/2017 15:47:48 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:48 DEBUG devpinoyLogger:184 - object = alternatebgcolor. value = Yes.
+08/20/2017 15:47:48 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg1text. Values = #2a4bd1
+08/20/2017 15:47:48 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:48 DEBUG devpinoyLogger:254 - object = altbg1. value = #2a4bd1.
+08/20/2017 15:47:49 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg2text. Values = #e02020
+08/20/2017 15:47:49 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:49 DEBUG devpinoyLogger:254 - object = altbg2. value = #e02020.
+08/20/2017 15:47:49 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:49 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:49 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:50 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = customfieldsdd. Values = No
+08/20/2017 15:47:50 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:50 DEBUG devpinoyLogger:184 - object = customfields. value = No.
+08/20/2017 15:47:51 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:51 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:51 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:53 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = linkstylerbutton. Values = 12
+08/20/2017 15:47:53 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/20/2017 15:47:53 DEBUG devpinoyLogger:205 - object = linkstyle. value = 12.
+08/20/2017 15:47:53 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:53 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:53 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:55 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = reqfieldstext. Values = Please fill all the required fields.
+08/20/2017 15:47:55 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:55 DEBUG devpinoyLogger:254 - object = errreqfields. value = Please fill all the required fields..
+08/20/2017 15:47:55 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = validaddresstext. Values = Please enter a valid e-mail address.
+08/20/2017 15:47:55 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:55 DEBUG devpinoyLogger:254 - object = erreaddress. value = Please enter a valid e-mail address..
+08/20/2017 15:47:55 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = headertext. Values = #f21818
+08/20/2017 15:47:55 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:55 DEBUG devpinoyLogger:254 - object = error_page_header. value = #f21818.
+08/20/2017 15:47:55 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagetext. Values = #e6d6d6
+08/20/2017 15:47:55 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:55 DEBUG devpinoyLogger:254 - object = error_page_text. value = #e6d6d6.
+08/20/2017 15:47:56 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagebgtext. Values = #e6d6d6
+08/20/2017 15:47:56 DEBUG devpinoyLogger:253 - Writing in a text box
+08/20/2017 15:47:56 DEBUG devpinoyLogger:254 - object = error_page_bg. value = #e6d6d6.
+08/20/2017 15:47:56 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:56 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:56 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:57 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = printbutton. Values = 
+08/20/2017 15:47:57 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/20/2017 15:47:57 DEBUG devpinoyLogger:231 - object = printbut. value = No value for this method.
+08/20/2017 15:47:57 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:57 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:57 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:47:59 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = sitecatdd. Values = Computers
+08/20/2017 15:47:59 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/20/2017 15:47:59 DEBUG devpinoyLogger:184 - object = sitecat. value = Computers.
+08/20/2017 15:47:59 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/20/2017 15:47:59 DEBUG devpinoyLogger:163 - Clicking the button
+08/20/2017 15:47:59 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/20/2017 15:48:00 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/20/2017 15:48:00 DEBUG devpinoyLogger:143 - Clicking the link
+08/20/2017 15:48:00 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/20/2017 15:48:04 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/20/2017 15:48:04 DEBUG devpinoyLogger:275 - Closing the browser
+08/20/2017 15:48:05 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/20/2017 15:48:05 DEBUG devpinoyLogger:24 - Opening the browser
+08/20/2017 15:48:05 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/20/2017 15:48:06 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/20/2017 15:48:06 DEBUG devpinoyLogger:61 - Load the URL
+08/20/2017 15:48:06 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/20/2017 15:48:11 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/20/2017 15:48:11 DEBUG devpinoyLogger:84 - Logging in
+08/20/2017 15:48:11 DEBUG devpinoyLogger:95 - username object = usertext
+08/20/2017 15:48:11 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/20/2017 15:48:11 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/20/2017 15:48:11 DEBUG devpinoyLogger:98 - username value = username
+08/20/2017 15:48:11 DEBUG devpinoyLogger:99 - password value = password
+08/20/2017 15:48:14 DEBUG devpinoyLogger:72 - Execute deleteForm method. Objects = tableclassname|deletelink|deleteauthid|deleteformbutton. Values = Dhivya
+08/20/2017 15:48:14 DEBUG devpinoyLogger:294 - Delete the form
+08/20/2017 15:48:14 DEBUG devpinoyLogger:302 - tableclassname = tableclassname. deletebutton = deletelink. deletetextbox = deleteauthid. buttonname = deleteformbutton.
+08/20/2017 15:48:14 DEBUG devpinoyLogger:303 - formname = Dhivya
+08/20/2017 15:48:17 DEBUG devpinoyLogger:318 - I am deleting the form
+08/20/2017 15:48:23 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/20/2017 15:48:23 DEBUG devpinoyLogger:143 - Clicking the link
+08/20/2017 15:48:23 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/20/2017 15:48:26 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/20/2017 15:48:26 DEBUG devpinoyLogger:275 - Closing the browser
+08/21/2017 07:40:57 DEBUG devpinoyLogger:36 - OR Property file loaded
+08/21/2017 07:40:57 DEBUG devpinoyLogger:44 - CONFIG Property file loaded
+08/21/2017 07:40:57 DEBUG devpinoyLogger:51 - All the APIs loaded
+08/21/2017 07:40:59 DEBUG devpinoyLogger:56 - Loaded My Contact Form.xlsx
+08/21/2017 07:40:59 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/21/2017 07:40:59 DEBUG devpinoyLogger:24 - Opening the browser
+08/21/2017 07:40:59 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/21/2017 07:41:02 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/21/2017 07:41:02 DEBUG devpinoyLogger:61 - Load the URL
+08/21/2017 07:41:02 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/21/2017 07:41:09 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/21/2017 07:41:09 DEBUG devpinoyLogger:84 - Logging in
+08/21/2017 07:41:09 DEBUG devpinoyLogger:95 - username object = usertext
+08/21/2017 07:41:09 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/21/2017 07:41:09 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/21/2017 07:41:09 DEBUG devpinoyLogger:98 - username value = username
+08/21/2017 07:41:09 DEBUG devpinoyLogger:99 - password value = password
+08/21/2017 07:41:14 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = newformlink. Values = 
+08/21/2017 07:41:14 DEBUG devpinoyLogger:143 - Clicking the link
+08/21/2017 07:41:14 DEBUG devpinoyLogger:144 - object = New Form Wizard. value = No value for this method .
+08/21/2017 07:41:17 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = startwizardbutton. Values = 
+08/21/2017 07:41:17 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:17 DEBUG devpinoyLogger:164 - object = submit. value = No value for this method .
+08/21/2017 07:41:18 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = formnametext. Values = Dhivya
+08/21/2017 07:41:18 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:18 DEBUG devpinoyLogger:254 - object = formname. value = Dhivya.
+08/21/2017 07:41:18 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = formatdd. Values = HTML
+08/21/2017 07:41:18 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:18 DEBUG devpinoyLogger:184 - object = format. value = HTML.
+08/21/2017 07:41:19 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emptydd. Values = Yes
+08/21/2017 07:41:19 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:19 DEBUG devpinoyLogger:184 - object = empty. value = Yes.
+08/21/2017 07:41:19 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = printurldd. Values = Yes
+08/21/2017 07:41:19 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:19 DEBUG devpinoyLogger:184 - object = printurl. value = Yes.
+08/21/2017 07:41:19 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:19 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:19 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:20 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = etypetemprbutton. Values = 1
+08/21/2017 07:41:20 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/21/2017 07:41:20 DEBUG devpinoyLogger:205 - object = etypetemp. value = 1.
+08/21/2017 07:41:21 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:21 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:21 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:22 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = eadddd. Values = raman.dhivya@gmail.com
+08/21/2017 07:41:22 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:22 DEBUG devpinoyLogger:184 - object = eadd. value = raman.dhivya@gmail.com.
+08/21/2017 07:41:22 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:22 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:22 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:23 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = subjecttyperbutton. Values = 2
+08/21/2017 07:41:23 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/21/2017 07:41:23 DEBUG devpinoyLogger:205 - object = subjecttype. value = 2.
+08/21/2017 07:41:24 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:24 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:24 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:27 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = autoresrbutton. Values = 0
+08/21/2017 07:41:27 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/21/2017 07:41:27 DEBUG devpinoyLogger:205 - object = autores. value = 0.
+08/21/2017 07:41:27 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:27 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:27 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:29 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = questionsetupdd. Values = Start with a predefined question template.
+08/21/2017 07:41:29 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:29 DEBUG devpinoyLogger:184 - object = questionsetup. value = Start with a predefined question template..
+08/21/2017 07:41:29 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:29 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:29 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:30 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = checkbox. Values = 
+08/21/2017 07:41:30 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/21/2017 07:41:30 DEBUG devpinoyLogger:231 - object = cat[]. value = No value for this method.
+08/21/2017 07:41:31 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:31 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:31 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:31 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = tempidrbutton. Values = 13
+08/21/2017 07:41:31 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/21/2017 07:41:31 DEBUG devpinoyLogger:205 - object = tempid. value = 13.
+08/21/2017 07:41:32 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:32 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:32 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:33 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:33 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:33 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:35 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = subjectlayoutdd. Values = Vertical
+08/21/2017 07:41:35 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:35 DEBUG devpinoyLogger:184 - object = subjectlayout. value = Vertical.
+08/21/2017 07:41:35 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emailfromlayoutdd. Values = Vertical
+08/21/2017 07:41:35 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:35 DEBUG devpinoyLogger:184 - object = emailfromlayout. value = Vertical.
+08/21/2017 07:41:35 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:35 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:35 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:37 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = redirectpagetext. Values = http://www.google.com
+08/21/2017 07:41:37 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:37 DEBUG devpinoyLogger:254 - object = redirectpage. value = http://www.google.com.
+08/21/2017 07:41:37 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:37 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:37 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:39 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:39 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:39 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:43 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontdd. Values = Geneva
+08/21/2017 07:41:43 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:43 DEBUG devpinoyLogger:184 - object = font. value = Geneva.
+08/21/2017 07:41:44 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = fontcolortext. Values = #2e0ee8
+08/21/2017 07:41:44 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:44 DEBUG devpinoyLogger:254 - object = fontcolor. value = #2e0ee8.
+08/21/2017 07:41:44 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontsizedd. Values = 5
+08/21/2017 07:41:44 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:44 DEBUG devpinoyLogger:184 - object = fontsize. value = 5.
+08/21/2017 07:41:44 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = boldbutton. Values = 
+08/21/2017 07:41:44 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/21/2017 07:41:44 DEBUG devpinoyLogger:231 - object = bold. value = No value for this method.
+08/21/2017 07:41:44 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = italicbutton. Values = 
+08/21/2017 07:41:44 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/21/2017 07:41:44 DEBUG devpinoyLogger:231 - object = italic. value = No value for this method.
+08/21/2017 07:41:44 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:44 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:44 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:46 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bgcolortext. Values = #ede1e1
+08/21/2017 07:41:46 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:46 DEBUG devpinoyLogger:254 - object = bgcolor. value = #ede1e1.
+08/21/2017 07:41:46 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordersizetext. Values = 2
+08/21/2017 07:41:46 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:46 DEBUG devpinoyLogger:254 - object = bordersize. value = 2.
+08/21/2017 07:41:46 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordercolortext. Values = #635d5d
+08/21/2017 07:41:46 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:46 DEBUG devpinoyLogger:254 - object = bordercolor. value = #635d5d.
+08/21/2017 07:41:46 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = borderstyledd. Values = Ridge
+08/21/2017 07:41:46 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:46 DEBUG devpinoyLogger:184 - object = borderstyle. value = Ridge.
+08/21/2017 07:41:47 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linesizetext. Values = 2
+08/21/2017 07:41:47 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:47 DEBUG devpinoyLogger:254 - object = linesize. value = 2.
+08/21/2017 07:41:47 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linecolortext. Values = #bd5a5a
+08/21/2017 07:41:47 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:47 DEBUG devpinoyLogger:254 - object = linecolor. value = #bd5a5a.
+08/21/2017 07:41:47 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = linestyledd. Values = Groove
+08/21/2017 07:41:47 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:47 DEBUG devpinoyLogger:184 - object = linestyle. value = Groove.
+08/21/2017 07:41:47 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = abgcolordd. Values = Yes
+08/21/2017 07:41:47 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:47 DEBUG devpinoyLogger:184 - object = alternatebgcolor. value = Yes.
+08/21/2017 07:41:47 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg1text. Values = #2a4bd1
+08/21/2017 07:41:47 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:47 DEBUG devpinoyLogger:254 - object = altbg1. value = #2a4bd1.
+08/21/2017 07:41:48 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg2text. Values = #e02020
+08/21/2017 07:41:48 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:48 DEBUG devpinoyLogger:254 - object = altbg2. value = #e02020.
+08/21/2017 07:41:48 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:48 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:48 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:49 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = customfieldsdd. Values = No
+08/21/2017 07:41:49 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:49 DEBUG devpinoyLogger:184 - object = customfields. value = No.
+08/21/2017 07:41:49 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:49 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:49 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:51 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = linkstylerbutton. Values = 12
+08/21/2017 07:41:51 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/21/2017 07:41:51 DEBUG devpinoyLogger:205 - object = linkstyle. value = 12.
+08/21/2017 07:41:52 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:52 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:52 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:53 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = reqfieldstext. Values = Please fill all the required fields.
+08/21/2017 07:41:53 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:53 DEBUG devpinoyLogger:254 - object = errreqfields. value = Please fill all the required fields..
+08/21/2017 07:41:53 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = validaddresstext. Values = Please enter a valid e-mail address.
+08/21/2017 07:41:53 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:53 DEBUG devpinoyLogger:254 - object = erreaddress. value = Please enter a valid e-mail address..
+08/21/2017 07:41:53 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = headertext. Values = #f21818
+08/21/2017 07:41:53 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:53 DEBUG devpinoyLogger:254 - object = error_page_header. value = #f21818.
+08/21/2017 07:41:53 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagetext. Values = #e6d6d6
+08/21/2017 07:41:53 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:53 DEBUG devpinoyLogger:254 - object = error_page_text. value = #e6d6d6.
+08/21/2017 07:41:54 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagebgtext. Values = #e6d6d6
+08/21/2017 07:41:54 DEBUG devpinoyLogger:253 - Writing in a text box
+08/21/2017 07:41:54 DEBUG devpinoyLogger:254 - object = error_page_bg. value = #e6d6d6.
+08/21/2017 07:41:54 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:54 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:54 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:55 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = printbutton. Values = 
+08/21/2017 07:41:55 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/21/2017 07:41:55 DEBUG devpinoyLogger:231 - object = printbut. value = No value for this method.
+08/21/2017 07:41:55 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:55 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:55 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:56 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = sitecatdd. Values = Computers
+08/21/2017 07:41:56 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/21/2017 07:41:56 DEBUG devpinoyLogger:184 - object = sitecat. value = Computers.
+08/21/2017 07:41:56 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/21/2017 07:41:56 DEBUG devpinoyLogger:163 - Clicking the button
+08/21/2017 07:41:56 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/21/2017 07:41:58 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/21/2017 07:41:58 DEBUG devpinoyLogger:143 - Clicking the link
+08/21/2017 07:41:58 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/21/2017 07:42:00 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/21/2017 07:42:00 DEBUG devpinoyLogger:275 - Closing the browser
+08/21/2017 07:42:00 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/21/2017 07:42:00 DEBUG devpinoyLogger:24 - Opening the browser
+08/21/2017 07:42:00 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/21/2017 07:42:01 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/21/2017 07:42:01 DEBUG devpinoyLogger:61 - Load the URL
+08/21/2017 07:42:01 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/21/2017 07:42:06 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/21/2017 07:42:06 DEBUG devpinoyLogger:84 - Logging in
+08/21/2017 07:42:06 DEBUG devpinoyLogger:95 - username object = usertext
+08/21/2017 07:42:06 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/21/2017 07:42:06 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/21/2017 07:42:06 DEBUG devpinoyLogger:98 - username value = username
+08/21/2017 07:42:06 DEBUG devpinoyLogger:99 - password value = password
+08/21/2017 07:42:10 DEBUG devpinoyLogger:72 - Execute deleteForm method. Objects = tableclassname|deletelink|deleteauthid|deleteformbutton. Values = Dhivya
+08/21/2017 07:42:10 DEBUG devpinoyLogger:294 - Delete the form
+08/21/2017 07:42:10 DEBUG devpinoyLogger:302 - tableclassname = tableclassname. deletebutton = deletelink. deletetextbox = deleteauthid. buttonname = deleteformbutton.
+08/21/2017 07:42:10 DEBUG devpinoyLogger:303 - formname = Dhivya
+08/21/2017 07:42:12 DEBUG devpinoyLogger:318 - I am deleting the form
+08/21/2017 07:42:15 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/21/2017 07:42:15 DEBUG devpinoyLogger:143 - Clicking the link
+08/21/2017 07:42:15 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/21/2017 07:42:21 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/21/2017 07:42:21 DEBUG devpinoyLogger:275 - Closing the browser
+08/22/2017 20:40:30 DEBUG devpinoyLogger:36 - OR Property file loaded
+08/22/2017 20:40:30 DEBUG devpinoyLogger:44 - CONFIG Property file loaded
+08/22/2017 20:40:30 DEBUG devpinoyLogger:51 - All the APIs loaded
+08/22/2017 20:40:33 DEBUG devpinoyLogger:56 - Loaded My Contact Form.xlsx
+08/22/2017 20:40:33 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/22/2017 20:40:33 DEBUG devpinoyLogger:24 - Opening the browser
+08/22/2017 20:40:33 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/22/2017 20:40:39 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/22/2017 20:40:39 DEBUG devpinoyLogger:61 - Load the URL
+08/22/2017 20:40:39 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/22/2017 20:40:44 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/22/2017 20:40:44 DEBUG devpinoyLogger:84 - Logging in
+08/22/2017 20:40:44 DEBUG devpinoyLogger:95 - username object = usertext
+08/22/2017 20:40:44 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/22/2017 20:40:44 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/22/2017 20:40:44 DEBUG devpinoyLogger:98 - username value = username
+08/22/2017 20:40:44 DEBUG devpinoyLogger:99 - password value = password
+08/22/2017 20:40:48 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = newformlink. Values = 
+08/22/2017 20:40:48 DEBUG devpinoyLogger:143 - Clicking the link
+08/22/2017 20:40:48 DEBUG devpinoyLogger:144 - object = New Form Wizard. value = No value for this method .
+08/22/2017 20:40:51 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = startwizardbutton. Values = 
+08/22/2017 20:40:51 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:40:51 DEBUG devpinoyLogger:164 - object = submit. value = No value for this method .
+08/22/2017 20:40:52 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = formnametext. Values = Dhivya
+08/22/2017 20:40:52 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:40:52 DEBUG devpinoyLogger:254 - object = formname. value = Dhivya.
+08/22/2017 20:40:53 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = formatdd. Values = HTML
+08/22/2017 20:40:53 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:40:53 DEBUG devpinoyLogger:184 - object = format. value = HTML.
+08/22/2017 20:40:53 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emptydd. Values = Yes
+08/22/2017 20:40:53 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:40:53 DEBUG devpinoyLogger:184 - object = empty. value = Yes.
+08/22/2017 20:40:53 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = printurldd. Values = Yes
+08/22/2017 20:40:53 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:40:53 DEBUG devpinoyLogger:184 - object = printurl. value = Yes.
+08/22/2017 20:40:54 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:40:54 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:40:54 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:40:55 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = etypetemprbutton. Values = 1
+08/22/2017 20:40:55 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/22/2017 20:40:55 DEBUG devpinoyLogger:205 - object = etypetemp. value = 1.
+08/22/2017 20:40:55 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:40:55 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:40:55 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:40:57 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = eadddd. Values = raman.dhivya@gmail.com
+08/22/2017 20:40:57 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:40:57 DEBUG devpinoyLogger:184 - object = eadd. value = raman.dhivya@gmail.com.
+08/22/2017 20:40:57 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:40:57 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:40:57 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:40:59 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = subjecttyperbutton. Values = 2
+08/22/2017 20:40:59 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/22/2017 20:40:59 DEBUG devpinoyLogger:205 - object = subjecttype. value = 2.
+08/22/2017 20:40:59 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:40:59 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:40:59 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:02 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = autoresrbutton. Values = 0
+08/22/2017 20:41:02 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/22/2017 20:41:02 DEBUG devpinoyLogger:205 - object = autores. value = 0.
+08/22/2017 20:41:02 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:02 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:02 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:04 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = questionsetupdd. Values = Start with a predefined question template.
+08/22/2017 20:41:04 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:04 DEBUG devpinoyLogger:184 - object = questionsetup. value = Start with a predefined question template..
+08/22/2017 20:41:05 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:05 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:05 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:06 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = checkbox. Values = 
+08/22/2017 20:41:06 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/22/2017 20:41:06 DEBUG devpinoyLogger:231 - object = cat[]. value = No value for this method.
+08/22/2017 20:41:06 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:06 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:06 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:08 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = tempidrbutton. Values = 13
+08/22/2017 20:41:08 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/22/2017 20:41:08 DEBUG devpinoyLogger:205 - object = tempid. value = 13.
+08/22/2017 20:41:08 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:08 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:08 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:10 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:10 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:10 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:11 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = subjectlayoutdd. Values = Vertical
+08/22/2017 20:41:11 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:11 DEBUG devpinoyLogger:184 - object = subjectlayout. value = Vertical.
+08/22/2017 20:41:11 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emailfromlayoutdd. Values = Vertical
+08/22/2017 20:41:11 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:11 DEBUG devpinoyLogger:184 - object = emailfromlayout. value = Vertical.
+08/22/2017 20:41:12 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:12 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:12 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:13 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = redirectpagetext. Values = http://www.google.com
+08/22/2017 20:41:13 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:13 DEBUG devpinoyLogger:254 - object = redirectpage. value = http://www.google.com.
+08/22/2017 20:41:14 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:14 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:14 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:15 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:15 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:15 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:19 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontdd. Values = Geneva
+08/22/2017 20:41:19 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:19 DEBUG devpinoyLogger:184 - object = font. value = Geneva.
+08/22/2017 20:41:20 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = fontcolortext. Values = #2e0ee8
+08/22/2017 20:41:20 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:20 DEBUG devpinoyLogger:254 - object = fontcolor. value = #2e0ee8.
+08/22/2017 20:41:20 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontsizedd. Values = 5
+08/22/2017 20:41:20 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:20 DEBUG devpinoyLogger:184 - object = fontsize. value = 5.
+08/22/2017 20:41:21 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = boldbutton. Values = 
+08/22/2017 20:41:21 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/22/2017 20:41:21 DEBUG devpinoyLogger:231 - object = bold. value = No value for this method.
+08/22/2017 20:41:21 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = italicbutton. Values = 
+08/22/2017 20:41:21 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/22/2017 20:41:21 DEBUG devpinoyLogger:231 - object = italic. value = No value for this method.
+08/22/2017 20:41:21 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:21 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:21 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:23 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bgcolortext. Values = #ede1e1
+08/22/2017 20:41:23 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:23 DEBUG devpinoyLogger:254 - object = bgcolor. value = #ede1e1.
+08/22/2017 20:41:23 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordersizetext. Values = 2
+08/22/2017 20:41:23 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:23 DEBUG devpinoyLogger:254 - object = bordersize. value = 2.
+08/22/2017 20:41:24 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordercolortext. Values = #635d5d
+08/22/2017 20:41:24 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:24 DEBUG devpinoyLogger:254 - object = bordercolor. value = #635d5d.
+08/22/2017 20:41:24 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = borderstyledd. Values = Ridge
+08/22/2017 20:41:24 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:24 DEBUG devpinoyLogger:184 - object = borderstyle. value = Ridge.
+08/22/2017 20:41:24 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linesizetext. Values = 2
+08/22/2017 20:41:24 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:24 DEBUG devpinoyLogger:254 - object = linesize. value = 2.
+08/22/2017 20:41:25 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linecolortext. Values = #bd5a5a
+08/22/2017 20:41:25 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:25 DEBUG devpinoyLogger:254 - object = linecolor. value = #bd5a5a.
+08/22/2017 20:41:25 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = linestyledd. Values = Groove
+08/22/2017 20:41:25 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:25 DEBUG devpinoyLogger:184 - object = linestyle. value = Groove.
+08/22/2017 20:41:26 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = abgcolordd. Values = Yes
+08/22/2017 20:41:26 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:26 DEBUG devpinoyLogger:184 - object = alternatebgcolor. value = Yes.
+08/22/2017 20:41:26 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg1text. Values = #2a4bd1
+08/22/2017 20:41:26 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:26 DEBUG devpinoyLogger:254 - object = altbg1. value = #2a4bd1.
+08/22/2017 20:41:27 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg2text. Values = #e02020
+08/22/2017 20:41:27 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:27 DEBUG devpinoyLogger:254 - object = altbg2. value = #e02020.
+08/22/2017 20:41:27 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:27 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:27 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:28 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = customfieldsdd. Values = No
+08/22/2017 20:41:28 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:28 DEBUG devpinoyLogger:184 - object = customfields. value = No.
+08/22/2017 20:41:29 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:29 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:29 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:31 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = linkstylerbutton. Values = 12
+08/22/2017 20:41:31 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/22/2017 20:41:31 DEBUG devpinoyLogger:205 - object = linkstyle. value = 12.
+08/22/2017 20:41:32 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:32 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:32 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:33 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = reqfieldstext. Values = Please fill all the required fields.
+08/22/2017 20:41:33 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:33 DEBUG devpinoyLogger:254 - object = errreqfields. value = Please fill all the required fields..
+08/22/2017 20:41:34 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = validaddresstext. Values = Please enter a valid e-mail address.
+08/22/2017 20:41:34 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:34 DEBUG devpinoyLogger:254 - object = erreaddress. value = Please enter a valid e-mail address..
+08/22/2017 20:41:34 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = headertext. Values = #f21818
+08/22/2017 20:41:34 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:34 DEBUG devpinoyLogger:254 - object = error_page_header. value = #f21818.
+08/22/2017 20:41:35 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagetext. Values = #e6d6d6
+08/22/2017 20:41:35 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:35 DEBUG devpinoyLogger:254 - object = error_page_text. value = #e6d6d6.
+08/22/2017 20:41:35 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagebgtext. Values = #e6d6d6
+08/22/2017 20:41:35 DEBUG devpinoyLogger:253 - Writing in a text box
+08/22/2017 20:41:35 DEBUG devpinoyLogger:254 - object = error_page_bg. value = #e6d6d6.
+08/22/2017 20:41:36 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:36 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:36 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:37 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = printbutton. Values = 
+08/22/2017 20:41:37 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/22/2017 20:41:37 DEBUG devpinoyLogger:231 - object = printbut. value = No value for this method.
+08/22/2017 20:41:37 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:37 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:37 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:39 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = sitecatdd. Values = Computers
+08/22/2017 20:41:39 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/22/2017 20:41:39 DEBUG devpinoyLogger:184 - object = sitecat. value = Computers.
+08/22/2017 20:41:39 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/22/2017 20:41:39 DEBUG devpinoyLogger:163 - Clicking the button
+08/22/2017 20:41:39 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/22/2017 20:41:40 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/22/2017 20:41:40 DEBUG devpinoyLogger:143 - Clicking the link
+08/22/2017 20:41:40 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/22/2017 20:41:43 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/22/2017 20:41:43 DEBUG devpinoyLogger:275 - Closing the browser
+08/22/2017 20:41:44 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/22/2017 20:41:44 DEBUG devpinoyLogger:24 - Opening the browser
+08/22/2017 20:41:44 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/22/2017 20:41:46 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/22/2017 20:41:46 DEBUG devpinoyLogger:61 - Load the URL
+08/22/2017 20:41:46 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/22/2017 20:41:50 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/22/2017 20:41:50 DEBUG devpinoyLogger:84 - Logging in
+08/22/2017 20:41:50 DEBUG devpinoyLogger:95 - username object = usertext
+08/22/2017 20:41:50 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/22/2017 20:41:50 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/22/2017 20:41:50 DEBUG devpinoyLogger:98 - username value = username
+08/22/2017 20:41:50 DEBUG devpinoyLogger:99 - password value = password
+08/22/2017 20:41:53 DEBUG devpinoyLogger:72 - Execute deleteForm method. Objects = tableclassname|deletelink|deleteauthid|deleteformbutton. Values = Dhivya
+08/22/2017 20:41:53 DEBUG devpinoyLogger:294 - Delete the form
+08/22/2017 20:41:53 DEBUG devpinoyLogger:302 - tableclassname = tableclassname. deletebutton = deletelink. deletetextbox = deleteauthid. buttonname = deleteformbutton.
+08/22/2017 20:41:53 DEBUG devpinoyLogger:303 - formname = Dhivya
+08/22/2017 20:42:04 DEBUG devpinoyLogger:318 - I am deleting the form
+08/22/2017 20:42:13 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/22/2017 20:42:13 DEBUG devpinoyLogger:143 - Clicking the link
+08/22/2017 20:42:13 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/22/2017 20:42:16 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/22/2017 20:42:16 DEBUG devpinoyLogger:275 - Closing the browser
+08/27/2017 15:21:38 DEBUG devpinoyLogger:36 - OR Property file loaded
+08/27/2017 15:21:38 DEBUG devpinoyLogger:44 - CONFIG Property file loaded
+08/27/2017 15:21:38 DEBUG devpinoyLogger:51 - All the APIs loaded
+08/27/2017 15:21:39 DEBUG devpinoyLogger:56 - Loaded My Contact Form.xlsx
+08/27/2017 15:21:39 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/27/2017 15:21:39 DEBUG devpinoyLogger:24 - Opening the browser
+08/27/2017 15:21:39 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/27/2017 15:21:43 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/27/2017 15:21:43 DEBUG devpinoyLogger:61 - Load the URL
+08/27/2017 15:21:43 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/27/2017 15:21:47 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/27/2017 15:21:47 DEBUG devpinoyLogger:84 - Logging in
+08/27/2017 15:21:47 DEBUG devpinoyLogger:95 - username object = usertext
+08/27/2017 15:21:47 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/27/2017 15:21:47 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/27/2017 15:21:47 DEBUG devpinoyLogger:98 - username value = username
+08/27/2017 15:21:47 DEBUG devpinoyLogger:99 - password value = password
+08/27/2017 15:21:51 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = newformlink. Values = 
+08/27/2017 15:21:51 DEBUG devpinoyLogger:143 - Clicking the link
+08/27/2017 15:21:51 DEBUG devpinoyLogger:144 - object = New Form Wizard. value = No value for this method .
+08/27/2017 15:21:54 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = startwizardbutton. Values = 
+08/27/2017 15:21:54 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:21:54 DEBUG devpinoyLogger:164 - object = submit. value = No value for this method .
+08/27/2017 15:21:55 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = formnametext. Values = Dhivya
+08/27/2017 15:21:55 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:21:55 DEBUG devpinoyLogger:254 - object = formname. value = Dhivya.
+08/27/2017 15:21:55 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = formatdd. Values = HTML
+08/27/2017 15:21:55 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:21:55 DEBUG devpinoyLogger:184 - object = format. value = HTML.
+08/27/2017 15:21:55 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emptydd. Values = Yes
+08/27/2017 15:21:55 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:21:55 DEBUG devpinoyLogger:184 - object = empty. value = Yes.
+08/27/2017 15:21:56 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = printurldd. Values = Yes
+08/27/2017 15:21:56 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:21:56 DEBUG devpinoyLogger:184 - object = printurl. value = Yes.
+08/27/2017 15:21:56 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:21:56 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:21:56 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:21:57 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = etypetemprbutton. Values = 1
+08/27/2017 15:21:57 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/27/2017 15:21:57 DEBUG devpinoyLogger:205 - object = etypetemp. value = 1.
+08/27/2017 15:21:57 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:21:57 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:21:57 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:21:58 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = eadddd. Values = raman.dhivya@gmail.com
+08/27/2017 15:21:58 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:21:58 DEBUG devpinoyLogger:184 - object = eadd. value = raman.dhivya@gmail.com.
+08/27/2017 15:21:59 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:21:59 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:21:59 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:00 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = subjecttyperbutton. Values = 2
+08/27/2017 15:22:00 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/27/2017 15:22:00 DEBUG devpinoyLogger:205 - object = subjecttype. value = 2.
+08/27/2017 15:22:00 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:00 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:00 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:03 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = autoresrbutton. Values = 0
+08/27/2017 15:22:03 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/27/2017 15:22:03 DEBUG devpinoyLogger:205 - object = autores. value = 0.
+08/27/2017 15:22:03 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:03 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:03 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:05 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = questionsetupdd. Values = Start with a predefined question template.
+08/27/2017 15:22:05 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:05 DEBUG devpinoyLogger:184 - object = questionsetup. value = Start with a predefined question template..
+08/27/2017 15:22:05 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:05 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:05 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:06 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = checkbox. Values = 
+08/27/2017 15:22:06 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/27/2017 15:22:06 DEBUG devpinoyLogger:231 - object = cat[]. value = No value for this method.
+08/27/2017 15:22:06 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:06 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:06 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:07 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = tempidrbutton. Values = 13
+08/27/2017 15:22:07 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/27/2017 15:22:07 DEBUG devpinoyLogger:205 - object = tempid. value = 13.
+08/27/2017 15:22:08 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:08 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:08 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:10 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:10 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:10 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:11 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = subjectlayoutdd. Values = Vertical
+08/27/2017 15:22:11 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:11 DEBUG devpinoyLogger:184 - object = subjectlayout. value = Vertical.
+08/27/2017 15:22:11 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emailfromlayoutdd. Values = Vertical
+08/27/2017 15:22:11 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:11 DEBUG devpinoyLogger:184 - object = emailfromlayout. value = Vertical.
+08/27/2017 15:22:12 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:12 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:12 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:13 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = redirectpagetext. Values = http://www.google.com
+08/27/2017 15:22:13 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:13 DEBUG devpinoyLogger:254 - object = redirectpage. value = http://www.google.com.
+08/27/2017 15:22:13 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:13 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:13 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:15 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:15 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:15 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:24 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontdd. Values = Geneva
+08/27/2017 15:22:24 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:24 DEBUG devpinoyLogger:184 - object = font. value = Geneva.
+08/27/2017 15:22:25 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = fontcolortext. Values = #2e0ee8
+08/27/2017 15:22:25 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:25 DEBUG devpinoyLogger:254 - object = fontcolor. value = #2e0ee8.
+08/27/2017 15:22:25 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = fontsizedd. Values = 5
+08/27/2017 15:22:25 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:25 DEBUG devpinoyLogger:184 - object = fontsize. value = 5.
+08/27/2017 15:22:25 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = boldbutton. Values = 
+08/27/2017 15:22:25 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/27/2017 15:22:25 DEBUG devpinoyLogger:231 - object = bold. value = No value for this method.
+08/27/2017 15:22:25 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = italicbutton. Values = 
+08/27/2017 15:22:25 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/27/2017 15:22:25 DEBUG devpinoyLogger:231 - object = italic. value = No value for this method.
+08/27/2017 15:22:25 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:25 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:25 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:27 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bgcolortext. Values = #ede1e1
+08/27/2017 15:22:27 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:27 DEBUG devpinoyLogger:254 - object = bgcolor. value = #ede1e1.
+08/27/2017 15:22:27 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordersizetext. Values = 2
+08/27/2017 15:22:27 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:27 DEBUG devpinoyLogger:254 - object = bordersize. value = 2.
+08/27/2017 15:22:27 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = bordercolortext. Values = #635d5d
+08/27/2017 15:22:27 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:27 DEBUG devpinoyLogger:254 - object = bordercolor. value = #635d5d.
+08/27/2017 15:22:27 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = borderstyledd. Values = Ridge
+08/27/2017 15:22:27 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:27 DEBUG devpinoyLogger:184 - object = borderstyle. value = Ridge.
+08/27/2017 15:22:27 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linesizetext. Values = 2
+08/27/2017 15:22:27 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:27 DEBUG devpinoyLogger:254 - object = linesize. value = 2.
+08/27/2017 15:22:28 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = linecolortext. Values = #bd5a5a
+08/27/2017 15:22:28 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:28 DEBUG devpinoyLogger:254 - object = linecolor. value = #bd5a5a.
+08/27/2017 15:22:28 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = linestyledd. Values = Groove
+08/27/2017 15:22:28 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:28 DEBUG devpinoyLogger:184 - object = linestyle. value = Groove.
+08/27/2017 15:22:28 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = abgcolordd. Values = Yes
+08/27/2017 15:22:28 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:28 DEBUG devpinoyLogger:184 - object = alternatebgcolor. value = Yes.
+08/27/2017 15:22:28 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg1text. Values = #2a4bd1
+08/27/2017 15:22:28 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:28 DEBUG devpinoyLogger:254 - object = altbg1. value = #2a4bd1.
+08/27/2017 15:22:28 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = altbg2text. Values = #e02020
+08/27/2017 15:22:28 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:28 DEBUG devpinoyLogger:254 - object = altbg2. value = #e02020.
+08/27/2017 15:22:29 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:29 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:29 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:30 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = customfieldsdd. Values = No
+08/27/2017 15:22:30 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:30 DEBUG devpinoyLogger:184 - object = customfields. value = No.
+08/27/2017 15:22:30 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:30 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:30 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:32 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = linkstylerbutton. Values = 12
+08/27/2017 15:22:32 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/27/2017 15:22:32 DEBUG devpinoyLogger:205 - object = linkstyle. value = 12.
+08/27/2017 15:22:32 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:32 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:32 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:33 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = reqfieldstext. Values = Please fill all the required fields.
+08/27/2017 15:22:33 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:33 DEBUG devpinoyLogger:254 - object = errreqfields. value = Please fill all the required fields..
+08/27/2017 15:22:34 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = validaddresstext. Values = Please enter a valid e-mail address.
+08/27/2017 15:22:34 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:34 DEBUG devpinoyLogger:254 - object = erreaddress. value = Please enter a valid e-mail address..
+08/27/2017 15:22:34 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = headertext. Values = #f21818
+08/27/2017 15:22:34 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:34 DEBUG devpinoyLogger:254 - object = error_page_header. value = #f21818.
+08/27/2017 15:22:34 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagetext. Values = #e6d6d6
+08/27/2017 15:22:34 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:34 DEBUG devpinoyLogger:254 - object = error_page_text. value = #e6d6d6.
+08/27/2017 15:22:34 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = pagebgtext. Values = #e6d6d6
+08/27/2017 15:22:34 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 15:22:34 DEBUG devpinoyLogger:254 - object = error_page_bg. value = #e6d6d6.
+08/27/2017 15:22:34 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:34 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:34 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:36 DEBUG devpinoyLogger:72 - Execute selectCheckBox method. Objects = printbutton. Values = 
+08/27/2017 15:22:36 DEBUG devpinoyLogger:230 - Selecting a Check Box
+08/27/2017 15:22:36 DEBUG devpinoyLogger:231 - object = printbut. value = No value for this method.
+08/27/2017 15:22:36 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:36 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:36 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:37 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = sitecatdd. Values = Computers
+08/27/2017 15:22:37 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 15:22:37 DEBUG devpinoyLogger:184 - object = sitecat. value = Computers.
+08/27/2017 15:22:38 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 15:22:38 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 15:22:38 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 15:22:39 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/27/2017 15:22:39 DEBUG devpinoyLogger:143 - Clicking the link
+08/27/2017 15:22:39 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/27/2017 15:22:42 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/27/2017 15:22:42 DEBUG devpinoyLogger:275 - Closing the browser
+08/27/2017 15:22:42 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/27/2017 15:22:42 DEBUG devpinoyLogger:24 - Opening the browser
+08/27/2017 15:22:42 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/27/2017 15:22:44 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/27/2017 15:22:44 DEBUG devpinoyLogger:61 - Load the URL
+08/27/2017 15:22:44 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/27/2017 15:22:48 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/27/2017 15:22:48 DEBUG devpinoyLogger:84 - Logging in
+08/27/2017 15:22:48 DEBUG devpinoyLogger:95 - username object = usertext
+08/27/2017 15:22:48 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/27/2017 15:22:48 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/27/2017 15:22:48 DEBUG devpinoyLogger:98 - username value = username
+08/27/2017 15:22:48 DEBUG devpinoyLogger:99 - password value = password
+08/27/2017 15:22:52 DEBUG devpinoyLogger:72 - Execute deleteForm method. Objects = tableclassname|deletelink|deleteauthid|deleteformbutton. Values = Dhivya
+08/27/2017 15:22:52 DEBUG devpinoyLogger:294 - Delete the form
+08/27/2017 15:22:52 DEBUG devpinoyLogger:302 - tableclassname = tableclassname. deletebutton = deletelink. deletetextbox = deleteauthid. buttonname = deleteformbutton.
+08/27/2017 15:22:52 DEBUG devpinoyLogger:303 - formname = Dhivya
+08/27/2017 15:22:54 DEBUG devpinoyLogger:318 - I am deleting the form
+08/27/2017 15:23:00 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = Logoutlink. Values = 
+08/27/2017 15:23:00 DEBUG devpinoyLogger:143 - Clicking the link
+08/27/2017 15:23:00 DEBUG devpinoyLogger:144 - object = Logout. value = No value for this method .
+08/27/2017 15:23:03 DEBUG devpinoyLogger:72 - Execute closeBrowser method. Objects = . Values = 
+08/27/2017 15:23:03 DEBUG devpinoyLogger:275 - Closing the browser
+08/27/2017 16:15:44 DEBUG devpinoyLogger:36 - OR Property file loaded
+08/27/2017 16:15:44 DEBUG devpinoyLogger:44 - CONFIG Property file loaded
+08/27/2017 16:15:44 DEBUG devpinoyLogger:51 - All the APIs loaded
+08/27/2017 16:15:45 DEBUG devpinoyLogger:56 - Loaded My Contact Form.xlsx
+08/27/2017 16:15:45 DEBUG devpinoyLogger:72 - Execute openBrowser method. Objects = chromedriver. Values = chromedriverpath
+08/27/2017 16:15:45 DEBUG devpinoyLogger:24 - Opening the browser
+08/27/2017 16:15:45 DEBUG devpinoyLogger:25 - object = webdriver.chrome.driver. value = /Users/prabhu/Downloads/chromedriver.
+08/27/2017 16:15:49 DEBUG devpinoyLogger:72 - Execute loadPage method. Objects = url. Values = 
+08/27/2017 16:15:49 DEBUG devpinoyLogger:61 - Load the URL
+08/27/2017 16:15:49 DEBUG devpinoyLogger:62 - object = https://www.mycontactform.com/index.php. value = No value for this method .
+08/27/2017 16:15:53 DEBUG devpinoyLogger:72 - Execute login method. Objects = usertext|passwdtext|loginbutton. Values = username|password
+08/27/2017 16:15:53 DEBUG devpinoyLogger:84 - Logging in
+08/27/2017 16:15:53 DEBUG devpinoyLogger:95 - username object = usertext
+08/27/2017 16:15:53 DEBUG devpinoyLogger:96 - password object = passwdtext
+08/27/2017 16:15:53 DEBUG devpinoyLogger:97 - button object = loginbutton
+08/27/2017 16:15:53 DEBUG devpinoyLogger:98 - username value = username
+08/27/2017 16:15:53 DEBUG devpinoyLogger:99 - password value = password
+08/27/2017 16:15:57 DEBUG devpinoyLogger:72 - Execute clickLink method. Objects = newformlink. Values = 
+08/27/2017 16:15:57 DEBUG devpinoyLogger:143 - Clicking the link
+08/27/2017 16:15:57 DEBUG devpinoyLogger:144 - object = New Form Wizard. value = No value for this method .
+08/27/2017 16:15:59 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = startwizardbutton. Values = 
+08/27/2017 16:15:59 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 16:15:59 DEBUG devpinoyLogger:164 - object = submit. value = No value for this method .
+08/27/2017 16:16:00 DEBUG devpinoyLogger:72 - Execute writeInTextBox method. Objects = formnametext. Values = Dhivya
+08/27/2017 16:16:00 DEBUG devpinoyLogger:253 - Writing in a text box
+08/27/2017 16:16:00 DEBUG devpinoyLogger:254 - object = formname. value = Dhivya.
+08/27/2017 16:16:01 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = formatdd. Values = HTML
+08/27/2017 16:16:01 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 16:16:01 DEBUG devpinoyLogger:184 - object = format. value = HTML.
+08/27/2017 16:16:01 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = emptydd. Values = Yes
+08/27/2017 16:16:01 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 16:16:01 DEBUG devpinoyLogger:184 - object = empty. value = Yes.
+08/27/2017 16:16:01 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = printurldd. Values = Yes
+08/27/2017 16:16:01 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 16:16:01 DEBUG devpinoyLogger:184 - object = printurl. value = Yes.
+08/27/2017 16:16:02 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 16:16:02 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 16:16:02 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 16:16:03 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = etypetemprbutton. Values = 1
+08/27/2017 16:16:03 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/27/2017 16:16:03 DEBUG devpinoyLogger:205 - object = etypetemp. value = 1.
+08/27/2017 16:16:03 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 16:16:03 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 16:16:03 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 16:16:05 DEBUG devpinoyLogger:72 - Execute selectDropdown method. Objects = eadddd. Values = raman.dhivya@gmail.com
+08/27/2017 16:16:05 DEBUG devpinoyLogger:183 - Selecting a drop down element
+08/27/2017 16:16:05 DEBUG devpinoyLogger:184 - object = eadd. value = raman.dhivya@gmail.com.
+08/27/2017 16:16:05 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 16:16:05 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 16:16:05 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
+08/27/2017 16:16:06 DEBUG devpinoyLogger:72 - Execute selectRadioButton method. Objects = subjecttyperbutton. Values = 2
+08/27/2017 16:16:06 DEBUG devpinoyLogger:204 - Selecting a Radio button
+08/27/2017 16:16:06 DEBUG devpinoyLogger:205 - object = subjecttype. value = 2.
+08/27/2017 16:16:07 DEBUG devpinoyLogger:72 - Execute clickButton method. Objects = submitbutton. Values = 
+08/27/2017 16:16:07 DEBUG devpinoyLogger:163 - Clicking the button
+08/27/2017 16:16:07 DEBUG devpinoyLogger:164 - object = Submit. value = No value for this method .
